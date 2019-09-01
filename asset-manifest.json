@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/css-solar-system/static/css/main.359917a3.chunk.css",
+    "main.js": "/css-solar-system/static/js/main.dba1ec88.chunk.js",
+    "main.js.map": "/css-solar-system/static/js/main.dba1ec88.chunk.js.map",
+    "runtime~main.js": "/css-solar-system/static/js/runtime~main.67da7ee3.js",
+    "runtime~main.js.map": "/css-solar-system/static/js/runtime~main.67da7ee3.js.map",
+    "static/js/2.0ff360e2.chunk.js": "/css-solar-system/static/js/2.0ff360e2.chunk.js",
+    "static/js/2.0ff360e2.chunk.js.map": "/css-solar-system/static/js/2.0ff360e2.chunk.js.map",
+    "index.html": "/css-solar-system/index.html",
+    "precache-manifest.9263e8ff90c873dadb3598bab08a92b7.js": "/css-solar-system/precache-manifest.9263e8ff90c873dadb3598bab08a92b7.js",
+    "service-worker.js": "/css-solar-system/service-worker.js",
+    "static/css/main.359917a3.chunk.css.map": "/css-solar-system/static/css/main.359917a3.chunk.css.map"
+  }
+}

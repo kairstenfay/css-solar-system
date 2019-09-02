@@ -51,6 +51,15 @@ export default class SolarSystem extends React.Component {
                         )};
                     </defs>
 
+                    <g key="stars">
+                        {planets.map((m, i) =>
+                            <circle key={`star${i}`}
+                                    cx={Math.floor(Math.random() * height)}
+                                    cy={Math.floor(Math.random() * width)}
+                                    r={Math.random()}
+                                    fill="white" />
+                        )};
+                    </g>
                     <g key="sun-and-orbits"
                        transform={`translate(${width / 2}, ${height / 2})`}>
                         <circle key="sun"
